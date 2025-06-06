@@ -47,7 +47,7 @@ Your program must demonstrate your understanding of Java programming concepts fr
 
 ### Deployment
 - Demonstrate your project
-https://youtube.com/shorts/NlinIp9Qc3A?si=CXdf88Ci48XvLc3T 
+[![Thumbnail for my project](thumbnail.jpg)] (https://youtube.com/shorts/NlinIp9Qc3A?si=CXdf88Ci48XvLc3T)
 ## Required Components
 
 ### Technical Requirements
